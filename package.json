@@ -1,0 +1,16 @@
+{
+  "name": "project-game",
+  "version": "0.0.1",
+  "description": "Inicio de um projeto de jogo",
+  "author": "Lucas Garcia",
+  "dependencies": {
+    "eiows": "^4.1.2",
+    "socket.io": "^4.5.1",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.4.0"
+  },
+  "scripts": {},
+  "optionalDependencies": {
+    "bufferutil": "^4.0.6",
+    "utf-8-validate": "^5.0.9"
+  }
+}
